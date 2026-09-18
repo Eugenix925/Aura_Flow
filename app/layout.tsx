@@ -3,13 +3,13 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'AI-Powered Workplace Productivity Assistant',
-  description: 'Automate your workplace productivity with intelligent email generation, meeting summarization, and smart task planning powered by AI.',
+title: 'Aura Flow | AI Workplace Productivity Assistant',
+    description: 'Aura Flow helps professionals draft emails, summarize meetings, and plan tasks with practical AI assistance.',
   generator: 'v0.app',
   keywords: 'AI, workplace productivity, email generator, meeting notes, task planner, automation',
   authors: [{ name: 'AI Skills Accelerator' }],
   openGraph: {
-    title: 'AI-Powered Workplace Productivity Assistant',
+title: 'Aura Flow | AI Workplace Productivity Assistant',
     description: 'Automate your workplace productivity with intelligent email generation, meeting summarization, and smart task planning powered by AI.',
     type: 'website',
   },
